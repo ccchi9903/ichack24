@@ -2,4 +2,4 @@
 Featured at IC Hack 24 (Largest Hackathon in Europe)
 
 <h2>Achievement</h2>
-Third place at incident.io's category: Most Magical Moment
+Third place for incident.io's category: Most Magical Moment
